@@ -1,0 +1,11 @@
+Ek Raat Cover Lofi Swattrex
+Skipped song due to MIN_VIEW_COUNT value in script
+Traceback (most recent call last):
+  File "g:\My_Projects_Rishabh_Search_Engine\YouTube-Downloader\Spotify.py", line 180, in download_playlist
+    raise ConfigException('Skipped song due to MIN_VIEW_COUNT value in script')
+Spotify.ConfigException: Skipped song due to MIN_VIEW_COUNT value in script
+
+
+Failed downloads for Ek Raat Cover Lofi:
+	• Ek Raat Cover Lofi - Swattrex | Fail reason: Skipped song due to MIN_VIEW_COUNT value in script
+
